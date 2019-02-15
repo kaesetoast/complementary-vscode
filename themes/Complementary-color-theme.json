@@ -17,7 +17,7 @@
 		"button.foreground": "#fff",
 		"button.hoverBackground": "#e6cf02",
 		// contrast
-		"contrastActiveBorder": "#FFE50A",
+		"contrastActiveBorder": null,
 		"contrastBorder": "#ffffff00",
 		// debug
 		"debugExceptionWidget.background": "#0d2333",
@@ -76,7 +76,7 @@
 		"editorGutter.background": "#12273866",
 		"editorGutter.addedBackground": "#3C9F4A",
 		"editorGutter.deletedBackground": "#A22929",
-		"editorGutter.modifiedBackground": "#26506D",
+		"editorGutter.modifiedBackground": "#32688f",
 		// editorGroup
 		"editorGroup.border": "#122738",
 		"editorGroup.dropBackground": "#12273899",
@@ -85,8 +85,8 @@
 		"editorGroupHeader.tabsBackground": "#0d2333",
 		"editorGroupHeader.tabsBorder": "#15232d",
 		// editorHoverWidget
-		"editorHoverWidget.background": "#15232d",
-		"editorHoverWidget.border": "#0d3a58",
+		"editorHoverWidget.background": "#0a151d",
+		"editorHoverWidget.border": "#162d3f",
 		"editorIndentGuide.background": "#3B5364",
 		"editorLineNumber.foreground": "#aaa",
 		"editorLink.activeForeground": "#aaa",
@@ -101,8 +101,8 @@
 		"editorOverviewRuler.incomingContentForeground": "#3ad90055",
 		"editorRuler.foreground": "#1F4662",
 		// editorSuggestWidget
-		"editorSuggestWidget.background": "#15232d",
-		"editorSuggestWidget.border": "#15232d",
+		"editorSuggestWidget.background": "#0a151d",
+		"editorSuggestWidget.border": "#162d3f",
 		"editorSuggestWidget.foreground": "#aaa",
 		"editorSuggestWidget.highlightForeground": "#FFE50A",
 		"editorSuggestWidget.selectedBackground": "#0d2333",
@@ -237,7 +237,7 @@
 		"textLink.foreground": "#157eda",
 		"textPreformat.foreground": "#FFE50A",
 		"textSeparator.foreground": "#0d3a58",
-		"titleBar.activeBackground": "#15232D",
+		"titleBar.activeBackground": "#1a2e3b",
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.inactiveBackground": "#0d2333",
 		"titleBar.inactiveForeground": "#ffffff33",

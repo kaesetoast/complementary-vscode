@@ -1,0 +1,26 @@
+{
+    "name": "complementary",
+    "displayName": "Complementary Theme",
+    "description": "",
+    "version": "0.1.0",
+    "publisher": "philippnowinski",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kaesetoast/complementary-vscode.git"
+    },
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "complementary",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Complementary-color-theme.json"
+            }
+        ]
+    }
+}

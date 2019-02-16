@@ -1,8 +1,8 @@
 {
     "name": "complementary",
     "displayName": "Complementary Theme",
-    "description": "A dark blue-yellow-ish theme.",
-    "version": "0.3.0",
+    "description": "💪 A dark blue-yellow-ish theme for focused programming.",
+    "version": "1.0.0",
     "publisher": "philippnowinski",
     "license": "MIT",
     "galleryBanner": {

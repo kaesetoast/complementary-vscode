@@ -1,9 +1,15 @@
 {
     "name": "complementary",
     "displayName": "Complementary Theme",
-    "description": "",
-    "version": "0.2.0",
+    "description": "A dark blue-yellow-ish theme.",
+    "version": "0.3.0",
     "publisher": "philippnowinski",
+    "license": "MIT",
+    "galleryBanner": {
+      "color": "#0d2333",
+      "theme": "dark"
+    },
+    "icon": "icon.png",
     "repository": {
       "type": "git",
       "url": "https://github.com/kaesetoast/complementary-vscode.git"

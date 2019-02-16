@@ -22,6 +22,6 @@
 
 ## Special thanks
 
-A special thanks to [Sarah Drasner](https://twitter.com/sarah_edo) ans [Wes Bos](https://twitter.com/wesbos) for documenting their themes [Night Owl](https://github.com/sdras/night-owl-vscode-theme) and [Cobalt 2](https://github.com/wesbos/cobalt2-vscode) so thoroughly. Both themes saved as a starting point for me and made my work *a lot* easier.
+A special thanks to [Sarah Drasner](https://twitter.com/sarah_edo) ans [Wes Bos](https://twitter.com/wesbos) for documenting their themes [Night Owl](https://github.com/sdras/night-owl-vscode-theme) and [Cobalt 2](https://github.com/wesbos/cobalt2-vscode) so thoroughly. Both themes served as a starting point for me and made my work *a lot* easier.
 
 OpenSource is just awesome, right? 😘

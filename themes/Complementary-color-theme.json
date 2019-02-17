@@ -507,6 +507,20 @@
 			}
 		},
 		{
+			"name": "[HTML] – Attributes",
+			"scope": "string.quoted.double.html, meta.attribute.class.html",
+			"settings": {
+				"foreground": "#bdb9f7"
+			}
+		},
+		{
+			"name": "[HTML] – Tags",
+			"scope": "punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, entity.name.tag.html",
+			"settings": {
+				"foreground": "#dad7ff"
+			}
+		},
+		{
 			"name": "[INI] - Entity",
 			"scope": "source.ini entity",
 			"settings": {

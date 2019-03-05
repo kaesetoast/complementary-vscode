@@ -23,7 +23,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "complementary",
+                "label": "Complementary Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Complementary-color-theme.json"
             }

@@ -1,6 +1,7 @@
 ## "1.2.0"
 - Better integration and highlighting of peekView
 - Add a proper Changelog
+- Fix display name
 
 ## "1.1.0"
 - Fix typo in Readme

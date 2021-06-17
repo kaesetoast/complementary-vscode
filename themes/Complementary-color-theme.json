@@ -5,7 +5,7 @@
 		// activityBar
 		"activityBar.background": "#091924",
 		"activityBar.border": "#0d2333",
-		"activityBar.dropBackground": "#0d3a58",
+		"activityBar.dropBorder": "#0d3a58",
 		"activityBar.foreground": "#fff",
 		"activityBarBadge.background": "#FFE50A",
 		"activityBarBadge.foreground": "#000",
@@ -17,7 +17,7 @@
 		"button.foreground": "#fff",
 		"button.hoverBackground": "#e6cf02",
 		// contrast
-		"contrastActiveBorder": null,
+		"contrastActiveBorder": "#ffffff00",
 		"contrastBorder": "#ffffff00",
 		// debug
 		"debugExceptionWidget.background": "#0d2333",
@@ -132,8 +132,8 @@
 		"inputValidation.warningBackground": "#0d2333",
 		"inputValidation.warningBorder": "#FFE50A",
 		// list
-		"list.activeSelectionBackground": "#0d2333",
-		"list.activeSelectionForeground": "#aaa",
+		"list.activeSelectionBackground": "#2b5f85",
+		"list.activeSelectionForeground": "#ebf1f5",
 		"list.dropBackground": "#0d3a58",
 		"list.focusBackground": "#0d3a58",
 		"list.focusForeground": "#aaa",
